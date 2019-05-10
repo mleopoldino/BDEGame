@@ -1,0 +1,290 @@
+fileFormatVersion: 2
+guid: 00c50b0e171bd204089f1512040692ad
+timeCreated: 1511825048
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Atlas Menu_0
+    21300002: Atlas Menu_1
+    21300004: Atlas Menu_2
+    21300006: Atlas Menu_3
+    21300008: Atlas Menu_4
+    21300010: Atlas Menu_5
+    21300012: Atlas Menu_6
+    21300014: Atlas Menu_7
+    21300016: Atlas Menu_8
+    21300018: Atlas Menu_9
+    21300020: Atlas Menu_10
+    21300022: Atlas Menu_11
+    21300024: AtlasMenu_Start
+    21300026: AtlasMenu_btnMultiplayer2P
+    21300028: AtlasMenu_btnMultiplayerOnline
+    21300030: AtlasMenu_btnConfiguracoes
+    21300032: AtlasMenu_btnVoltar
+    21300034: AtlasMenu_btnPronto
+    21300036: AtlasMenu_btnSair
+    21300038: AtlasMenu_ImgSelecaoP1
+    21300040: AtlasMenu_ImgSelecaoP2
+    21300042: AtlasMenu_ImgPlacar
+    21300044: AtlasMenu_btnAtaque
+    21300046: AtlasMenu_btnPulo
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: WebGL
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: AtlasMenu_Start
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 565
+        width: 1412
+        height: 768
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AtlasMenu_btnMultiplayer2P
+      rect:
+        serializedVersion: 2
+        x: 1617
+        y: 1257
+        width: 298
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AtlasMenu_btnMultiplayerOnline
+      rect:
+        serializedVersion: 2
+        x: 1617
+        y: 1095
+        width: 298
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AtlasMenu_btnConfiguracoes
+      rect:
+        serializedVersion: 2
+        x: 1617
+        y: 932
+        width: 298
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AtlasMenu_btnVoltar
+      rect:
+        serializedVersion: 2
+        x: 1617
+        y: 770
+        width: 298
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AtlasMenu_btnPronto
+      rect:
+        serializedVersion: 2
+        x: 1617
+        y: 607
+        width: 298
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AtlasMenu_btnSair
+      rect:
+        serializedVersion: 2
+        x: 1617
+        y: 445
+        width: 298
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AtlasMenu_ImgSelecaoP1
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 166
+        width: 101
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AtlasMenu_ImgSelecaoP2
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 166
+        width: 101
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AtlasMenu_ImgPlacar
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 0
+        width: 549
+        height: 367
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AtlasMenu_btnAtaque
+      rect:
+        serializedVersion: 2
+        x: 1552
+        y: 13
+        width: 146
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AtlasMenu_btnPulo
+      rect:
+        serializedVersion: 2
+        x: 1739
+        y: 13
+        width: 146
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
